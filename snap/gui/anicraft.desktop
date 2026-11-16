@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=AniCraft
+GenericName=Animation Studio
+Comment=Draw and animate 2D vector art on a timeline
+Exec=anicraft %F
+Icon=${SNAP}/meta/gui/anicraft.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=ai.storyteller.anicraft
+Categories=Graphics;2DGraphics;VectorGraphics;
+Keywords=animation;animator;timeline;keyframe;tween;vector;drawing;cartoon;motion;
+MimeType=application/x-anicraft;application/x-fla;application/x-xfl;
