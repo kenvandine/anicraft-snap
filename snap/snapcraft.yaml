@@ -1,6 +1,6 @@
 name: anicraft
 title: AniCraft
-base: core24
+base: core26
 version: '0.2.1'
 summary: 2D vector animation studio
 description: |
